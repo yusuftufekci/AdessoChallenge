@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{0C865AA6-9536-46E8-9DDC-5DF4BD726F1A}|AdessoProject2">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdessoProject2/Controller/ChallengeController.cs">
+    <Files>
+      <File FileName="AdessoProject2/Controller/ChallengeController.cs" Line="5" Column="21" />
+      <File FileName="AdessoProject2/Startup.cs" Line="11" Column="15" />
+      <File FileName="AdessoProject2/appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AdessoChallengeProject" expanded="True">
+            <Node name="AdessoChallengeProject" expanded="True">
+              <Node name="Controller" expanded="True">
+                <Node name="ChallengeController.cs" selected="True" />
+              </Node>
+              <Node name="Model" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AdessoProject2 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
